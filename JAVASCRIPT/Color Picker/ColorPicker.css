@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.color-picker-container {
+    background-color: #ffffff;
+    height: 100vh;
+}
+
+.color-head {
+    font-family: "Open Scans";
+    font-weight: bold;
+    font-size: 45px;
+    text-align: center;
+}
+
+
+
+.button1 {
+    font-family: "Open Scans";
+    font-size: 20px;
+    border-radius: 20px;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #222222;
+    background-color: #e0e0e0;
+    margin-bottom: 10px;
+
+}
+
+.button2 {
+    font-family: "Open Scans";
+    font-size: 20px;
+    border-radius: 20px;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #222222;
+    background-color: #6fcf97;
+    margin-bottom: 10px;
+
+}
+
+.button3 {
+    font-family: "Open Scans";
+    font-size: 20px;
+    border-radius: 20px;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #222222;
+    background-color: #56ccf2;
+    margin-bottom: 10px;
+
+}
+
+.button4 {
+    font-family: "Open Scans";
+    font-size: 20px;
+    border-radius: 20px;
+    height: 100px;
+    width: 100px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: #222222;
+    background-color: #bb6bd9;
+    margin-bottom: 10px;
+
+}
+
+.selected-color-text {
+    font-size: 25px;
+    color: #ffffff;
+    border-radius: 8px;
+    background-color: #222222;
+    padding: 20px;
+    font-weight: 500;
+    margin-bottom: 10px;
+    text-align: center;
+
+}
+
+.selected-color-hex-code {
+    color: #49a6e9;
+
+}
+
+.color-picker-instruction {
+    font-size: 25px;
+    color: #22222;
+    font-family: "Open Scans";
+    text-align: center;
+}
